@@ -1,0 +1,21 @@
+Chef has three spells. Their powers are AA, BB, and CC respectively. Initially, Chef has 00 hit points, and if he uses a spell with power PP, then his number of hit points increases by PP.
+
+Before going to sleep, Chef wants to use exactly two spells out of these three. Find the maximum number of hit points Chef can have after using the spells.
+Input Format
+
+    The first line of the input contains a single integer TT denoting the number of test cases. The description of TT test cases follows.
+    The first and only line of each test case contains three space-separated integers AA, BB, and CC.
+
+Output Format
+
+For each test case, print a single line containing one integer — the maximum number of hit points.
+
+
+Input
+2
+4 2 8
+10 14 18
+
+Output
+12
+32
