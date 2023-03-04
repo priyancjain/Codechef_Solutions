@@ -1,0 +1,35 @@
+No play and eating all day makes your belly fat. This happened to Chef during the lockdown. His weight before the lockdown was w1w1​ kg (measured on the most accurate hospital machine) and after MM months of lockdown, when he measured his weight at home (on a regular scale, which can be inaccurate), he got the result that his weight was w2w2​ kg (w2>w1w2​>w1​).
+
+Scientific research in all growing kids shows that their weights increase by a value between x1x1​ and x2x2​ kg (inclusive) per month, but not necessarily the same value each month. Chef assumes that he is a growing kid. Tell him whether his home scale could be giving correct results.
+Input
+
+    The first line of the input contains a single integer TT denoting the number of test cases. The description of TT test cases follows.
+    The first and only line of each test case contains five space-separated integers w1w1​, w2w2​, x1x1​, x2x2​ and MM.
+
+Output
+
+For each test case, print a single line containing the integer 11 if the result shown by the scale can be correct or 00 if it cannot.
+
+Input
+5
+
+1 2 1 2 2
+
+2 4 1 2 2
+
+4 8 1 2 2
+
+5 8 1 2 2
+
+1 100 1 2 2
+
+Output
+0
+
+1
+
+1
+
+1
+
+0

@@ -1,0 +1,26 @@
+You are given two integers NN and KK. You may perform the following operation any number of times (including zero): change NN to N−KN−K, i.e. subtract KK from NN. Find the smallest non-negative integer value of NN you can obtain this way.
+Input
+
+    The first line of the input contains a single integer TT denoting the number of test cases. The description of TT test cases follows.
+    The first and only line of each test case contains two space-separated integers NN and KK.
+
+Output
+
+For each test case, print a single line containing one integer — the smallest value you can get.
+
+Input
+3
+
+5 2
+
+4 4
+
+2 5
+
+Output
+
+1
+
+0
+
+2
