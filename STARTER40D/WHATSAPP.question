@@ -1,0 +1,26 @@
+Chef recently installed Whatsapp on his mobile device. Currently, he has no unread messages.
+
+Every hour, he receives XX messages and he is able to read YY messages out of them. After some time Chef notices that he has several unread messages.
+
+Can you tell him exactly how many unread messages Chef has after ZZ hours have passed?
+Input Format
+
+    The first line of input will contain a single integer TT, denoting the number of test cases. The description of the test cases follows.
+    Each test case consists of a single line containing three space-separated integers X,Y,X,Y, and Z$, denoting the number of messages Chef receives every hour, the number of messages he reads every hour, the and number of hours that have passed, respectively.
+
+Output Format
+
+    For each test case, output on a new line a single integer denoting the number of unread messages after ZZ hours.
+
+Input
+4
+5 2 2
+2 2 6
+3 2 1
+9 1 2
+
+Output
+6
+0
+1
+16
